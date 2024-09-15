@@ -1,5 +1,5 @@
 kind: wasmer.io/App.v0
-name: php-starter
+name: la-silva
 owner: wasmer-examples
 package: .
 scaling:
