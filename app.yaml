@@ -1,6 +1,6 @@
 kind: wasmer.io/App.v0
-name: la-silva
-owner: wasmer-examples
+name: php-starter
+owner: la-silva
 package: .
 scaling:
   mode: single_concurrency
